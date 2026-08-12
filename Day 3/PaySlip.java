@@ -1,7 +1,7 @@
 package Encapsulation;
 class EmployeePaySlip{
 	int empId;
-	String name;
+	String name; 
 	int age;
 	String gender;
 	double netSalary;
